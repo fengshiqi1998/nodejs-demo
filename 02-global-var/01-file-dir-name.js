@@ -2,7 +2,7 @@
 
 
 console.log('file name:',__filename);
-console.log('dir name:',__filename);
+console.log('dir name:',__dirname);
 /*
 var file = __dirname + '/view/data.html';//method 1,bad,cross platform
 

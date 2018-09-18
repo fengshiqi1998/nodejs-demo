@@ -21,6 +21,6 @@ log('qq: %s',user.qq);
 log('qq:'+user.qq);
 
 // template 模板字符串
-log(`qq:${user.q}`);
+log(`qq:${user.qq}`);
 
 console.error('error message!');

@@ -1,0 +1,6 @@
+name: wangding
+age: 41
+user: {"name":"wangding","age":41,"qq":"123456"}
+qq: 123456
+qq:123456
+qq:123456
