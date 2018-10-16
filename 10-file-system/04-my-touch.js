@@ -4,4 +4,4 @@ const fs = require('fs');
 
 var file = process.argv[2];
 
-fs.onlinkSync(file);
+fs.writeFileSync(file,'');
