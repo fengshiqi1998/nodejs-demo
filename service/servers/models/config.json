@@ -1,0 +1,8 @@
+{
+  "host":"localhost",
+  "user":"root",
+  "password":"ddd",
+  "database":"todoList",
+  "connectionLimit":10,
+  "supportBigNumbers":true
+}
